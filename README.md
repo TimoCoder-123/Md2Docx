@@ -51,3 +51,8 @@ File version: 1.0.0
 ## License
 
 MIT License
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for version history.
+
