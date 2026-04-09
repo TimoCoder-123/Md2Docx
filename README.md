@@ -50,5 +50,14 @@ This version **only processes explicitly selected files**.
 The application version is defined via **PyInstaller version metadata** and applies to:
 
 - The `.exe`
+- The MSI installer
 - Future upgrades
 
+Example:
+Product version: 1.0.0
+File version: 1.0.0
+---
+
+## License
+
+MIT License
