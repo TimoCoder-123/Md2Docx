@@ -16,16 +16,6 @@ It provides a simple graphical interface for selecting files and converting them
 
 ---
 
-## Not included in this version
-
-❌ Folder-based conversion  
-❌ Drag & drop support  
-❌ Recursive directory scanning  
-
-This version **only processes explicitly selected files**.
-
----
-
 ## Installation (Windows)
 
 1. Go to the **Releases** page
